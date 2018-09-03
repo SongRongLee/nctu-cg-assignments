@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\hubert\cgg_project\project1\project1\main.cpp(75): warning C4018: '<': signed/unsigned 不相符
+d:\hubert\cgg_project\project1\project1\main.cpp(112): warning C4018: '<': signed/unsigned 不相符
+  Project1.vcxproj -> D:\Hubert\CGG_project\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\Hubert\CGG_project\Project1\Debug\Project1.pdb (Partial PDB)

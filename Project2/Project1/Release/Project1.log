@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Project1_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Light.cpp
+  main.cpp
+D:\Hubert\CGG_project\Project2\include\FreeImage.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+main.cpp(153): warning C4018: '<': signed/unsigned 不相符
+main.cpp(280): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼
+  31 of 1011 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  Project1.vcxproj -> D:\Hubert\CGG_project\Project2\Release\Project1.exe
+  Project1.vcxproj -> D:\Hubert\CGG_project\Project2\Release\Project1.pdb (Full PDB)
